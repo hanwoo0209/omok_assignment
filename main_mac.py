@@ -115,7 +115,7 @@ button_start.config(text="착수", command=take_turns)
 button_start.place(x=180, y=465)
 
 button_close=Button(frame_right, width=9, height=1, font="맑은고딕 17")
-button_close.config(text="종료", command=other_command.close)
+button_close.config(text="종료", command=return_close)
 button_close.place(x=25, y=645)
 
 button_restart=Button(frame_right, width=9, height=1, font="맑은고딕 17")
