@@ -15,3 +15,4 @@
 * **Mac인 경우:**  터미널에서 omok_assignment 폴더 안으로 이동한 후 **python3 main_mac.py** 입력
 * **window인 경우:**  명령 프롬프트에서 omok_assignment 폴더 안으로 이동한 후 **python3 main.py** 입력
 
+### *게임 실행창*
