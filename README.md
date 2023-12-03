@@ -17,3 +17,4 @@
 
 ### *게임 실행창*
 ![image](https://github.com/hanwoo0209/omok_assignment/assets/143172131/c190d23a-2ab4-47c7-8fd5-bc1a6cf3dab2)
+![image](https://github.com/hanwoo0209/omok_assignment/assets/143172131/de8edfa8-4571-4b8d-af9d-0748d502e33d)
