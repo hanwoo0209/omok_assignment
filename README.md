@@ -16,5 +16,7 @@
 * **window인 경우:**  명령 프롬프트에서 omok_assignment 폴더 안으로 이동한 후 **python3 main.py** 입력
 
 ### *게임 실행창*
+**window**
 ![image](https://github.com/hanwoo0209/omok_assignment/assets/143172131/c190d23a-2ab4-47c7-8fd5-bc1a6cf3dab2)
+**Mac**
 ![image](https://github.com/hanwoo0209/omok_assignment/assets/143172131/de8edfa8-4571-4b8d-af9d-0748d502e33d)
