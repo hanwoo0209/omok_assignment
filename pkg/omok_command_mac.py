@@ -239,10 +239,10 @@ class command_class():
                             seq=str(command_class.count)
 
                         if(self.stone=="black"):
-                            self.listbox.insert(END, seq+f" ----({x},{y})---- ⚪")
+                            self.listbox.insert(END, seq+f" ----({x},{y})---- ⚫")
                             self.listbox.see(END)
                         else:
-                            self.listbox.insert(END, seq+f" ----({x},{y})---- ⚫")
+                            self.listbox.insert(END, seq+f" ----({x},{y})---- ⚪")
                             self.listbox.see(END)
 
                         # 다음 순서 결정
