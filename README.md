@@ -21,4 +21,4 @@
 **Mac**
 ![image](https://github.com/hanwoo0209/omok_assignment/assets/143172131/9d6489e6-2794-45b8-85fe-8f5deecb777e)
 
-github : https://github.com/chun-k/Bomb_game_vis.git
+github : https://github.com/hanwoo0209/omok_assignment.git
