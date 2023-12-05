@@ -14,7 +14,7 @@ frame_left.pack(side="left", fill="both")
 
 frame_right=Frame(win, relief="solid") # 오른쪽 프레임
 frame_right.config(width=300, height=700)
-image_wood=PhotoImage(file="pkg\wood.png") # 오른쪽 프레임 이미지
+image_wood=PhotoImage(file="pkg\나무.png") # 오른쪽 프레임 이미지
 frame_right.pack(side="right", fill="both")
 label_image=Label(frame_right, width=300, height=700, image=image_wood)
 label_image.pack()
@@ -25,7 +25,7 @@ frame_list.place(x=25, y=25, width=250, height=350)
 # 캔버스 지정
 canvas=Canvas(frame_left, relief="solid", ) # 밑바탕
 canvas.config(width=700, height=700) # 캔버스 크기
-image_wood_pan=PhotoImage(file="pkg\wood_pan.png")
+image_wood_pan=PhotoImage(file="pkg\나무판.png")
 canvas.create_image(0, 0, image=image_wood_pan)
 canvas.create_line(50, 50, 50, 650, 650, 650, 650, 50, 50, 50, width=3) # 아웃라인
 a=100 # 가로선 초기값
