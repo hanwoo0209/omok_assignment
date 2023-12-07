@@ -290,7 +290,7 @@ class command_class():
                     self.other.placement_list.remove([x, y])
                     self.all_list.remove([x, y])
                     self.canvas.delete(f"check[{x},{y}]")
-                    self.board[x-1][y-1]=0
+                    self.other.board[x-1][y-1]=0
                     self.order=False
                     self.other.order=True
                     self.erase_turn=False
